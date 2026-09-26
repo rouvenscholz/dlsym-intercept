@@ -1,0 +1,8 @@
+*
+!.gitignore
+!hook.h
+!jumptable.h
+!dlsym-intercept.h
+!jumptable_entry.h
+!get_elf_header.h
+!search_symbols.h

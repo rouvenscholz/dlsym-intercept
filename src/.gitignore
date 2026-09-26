@@ -1,0 +1,7 @@
+*
+!.gitignore
+!arch/
+!hook.cpp
+!init_loader.c
+!jumptable.c
+!search_symbols.c

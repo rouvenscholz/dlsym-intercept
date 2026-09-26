@@ -1,0 +1,4 @@
+*
+!.gitignore
+!example_prog.c
+!example_lib.c
